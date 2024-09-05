@@ -27,8 +27,8 @@ Before you begin, ensure you have the following installed:
 2. **Start the Application**:
 
   ```bash
-  npm install
-  npm start
+     npm install
+     npm start
 
 3. **Create .env File**:
 
