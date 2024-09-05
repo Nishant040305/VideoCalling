@@ -25,14 +25,13 @@ Before you begin, ensure you have the following installed:
    cd VideoCalling
 
 2. **Start the Application**:
-
-  ```bash
-     npm install
-     npm start
+   ```bash
+   npm install
+   npm start
 
 3. **Create .env File**:
 
 - Add SPORT choose a port
 - Add PORT choose a port
 - Add FRONTWEB (for production add http://localhost:5173)
-- ADD client/src/.env (for production add BACKWEB=http://localhost:PORT and SOCKET=http://localhost:SPORT)
+- Add client/src/.env (for production add BACKWEB=http://localhost:PORT and SOCKET=http://localhost:SPORT)
